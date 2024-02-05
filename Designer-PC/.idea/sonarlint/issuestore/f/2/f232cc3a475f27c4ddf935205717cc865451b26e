@@ -1,0 +1,7 @@
+
+m	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔÉ¿8³•†ÐÖ1
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÇ‰ýÿÿÿÿ8´•†ÐÖ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¨àùûÿÿÿÿ
+j	java:S116"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÚÔ¦8Ò•†ÐÖ1
+o	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ8Ò•†ÐÖ1
+G	java:S106Ž"+Replace this use of System.out by a logger.(¤‡±8 —†ÐÖ1

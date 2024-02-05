@@ -1,0 +1,24 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¹£ìÿÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ïøÕc8æÔºÚÔ1
+F	java:S106"+Replace this use of System.out by a logger.(Åªä48èÔºÚÔ1
+G	java:S106"+Replace this use of System.out by a logger.(ñÌ–8îÔºÚÔ1
+L	java:S106"+Replace this use of System.out by a logger.(ã•õœúÿÿÿÿ8ñÔºÚÔ1
+G	java:S106"+Replace this use of System.out by a logger.(Ó€ı¸8òÔºÚÔ1
+G	java:S106"+Replace this use of System.out by a logger.(“¨Î²8ôÔºÚÔ1
+L	java:S106"+Replace this use of System.out by a logger.(ÚßÎ»ÿÿÿÿÿ8öÔºÚÔ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(€şşğøÿÿÿÿ8øÔºÚÔ1
+C	java:S131""Add a default case to this switch.(ë¡Çøÿÿÿÿ8ÕºÚÔ1
+G	java:S106"+Replace this use of System.out by a logger.(Úù£»8’ÕºÚÔ1
+G	java:S106!"+Replace this use of System.out by a logger.(‘ïÒç8”ÕºÚÔ1
+F	java:S106%"+Replace this use of System.out by a logger.(½Ñõ8–ÕºÚÔ1
+L	java:S1063"+Replace this use of System.out by a logger.(Ï–£æıÿÿÿÿ8ÕºÚÔ1
+L	java:S1064"+Replace this use of System.out by a logger.(±Ë •ùÿÿÿÿ8ÕºÚÔ1
+G	java:S1065"+Replace this use of System.out by a logger.(ø’ãé8ŸÕºÚÔ1
+L	java:S1066"+Replace this use of System.out by a logger.(å‰şÿÿÿÿ8£ÕºÚÔ1
+L	java:S1067"+Replace this use of System.out by a logger.(¢‚‘óûÿÿÿÿ8¤ÕºÚÔ1
+L	java:S1068"+Replace this use of System.out by a logger.(ÇÄ¬¦şÿÿÿÿ8¥ÕºÚÔ1
+L	java:S106:"+Replace this use of System.out by a logger.(•€ÂÒùÿÿÿÿ8§ÕºÚÔ1
+G	java:S106R"+Replace this use of System.out by a logger.(‘İØş8·ÕºÚÔ1
+G	java:S106W"+Replace this use of System.out by a logger.(¿ÎÁ·8ºÕºÚÔ1

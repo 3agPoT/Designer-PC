@@ -1,0 +1,10 @@
+
+h
+java:S1192
+"KDefine a constant instead of duplicating this literal "multicolor" 3 times.(åò…æ8ÄÏÊÏÖ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹µıæøÿÿÿÿ8½¿ÙÚÔ1
+v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¿¬Å8×ÏÊÏÖ1
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åò…æ8ØÏÊÏÖ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ë×©şÿÿÿÿ8ØÏÊÏÖ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ«ß‡úÿÿÿÿ8ÙÏÊÏÖ1

@@ -1,0 +1,30 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¹£ìÿÿÿÿÿ8ü©µÖ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¤‚Öµ8‚ìúÖ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Û´²’ıÿÿÿÿ8†£ìúÖ1
+G	java:S106"+Replace this use of System.out by a logger.(ğ¨Íã8ˆ£ìúÖ1
+G	java:S106"+Replace this use of System.out by a logger.(»Î€¦8£ìúÖ1
+L	java:S106"+Replace this use of System.out by a logger.(”Ìøîüÿÿÿÿ8£ìúÖ1
+F	java:S106%"+Replace this use of System.out by a logger.(øİûI8£ìúÖ1
+L	java:S106("+Replace this use of System.out by a logger.(Ï¯Ş´şÿÿÿÿ8£ìúÖ1
+F	java:S106/"+Replace this use of System.out by a logger.(ØÀ‚
+8£ìúÖ1
+L	java:S1062"+Replace this use of System.out by a logger.(•—ßûÿÿÿÿ8‘£ìúÖ1
+L	java:S1069"+Replace this use of System.out by a logger.(°–ùÿÿÿÿ8’£ìúÖ1
+G	java:S106<"+Replace this use of System.out by a logger.(ĞŠØÔ8“£ìúÖ1
+L	java:S106>"+Replace this use of System.out by a logger.(¿¢¦Íøÿÿÿÿ8”£ìúÖ1
+^	java:S899J"BDo something with the "boolean" value returned by "createNewFile".(«Î§ü8Ø¤ìúÖ1
+L	java:S106V"+Replace this use of System.out by a logger.(„ãÔÊşÿÿÿÿ8ö¤ìúÖ1
+L	java:S106X"+Replace this use of System.out by a logger.(áçÉÁøÿÿÿÿ8ø¤ìúÖ1
+G	java:S106a"+Replace this use of System.out by a logger.(˜ûªµ8“¥ìúÖ1
+G	java:S106b"+Replace this use of System.out by a logger.(»Î€¦8”¥ìúÖ1
+L	java:S106d"+Replace this use of System.out by a logger.(°–ùÿÿÿÿ8•¥ìúÖ1
+L	java:S106l"+Replace this use of System.out by a logger.(äæ‚úÿÿÿÿ8¸¥ìúÖ1
+G	java:S106q"+Replace this use of System.out by a logger.(Ğ—À8ï¥ìúÖ1
+G	java:S106t"+Replace this use of System.out by a logger.(çû–÷8ğ¥ìúÖ1
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(şµ€`8„¦ìúÖ1
+i
+java:S5998…"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8õµÖ1

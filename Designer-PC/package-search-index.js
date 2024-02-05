@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"practice.businessLogic"},{"l":"practice.dataLayer.Components"},{"l":"practice.dataLayer.сoreComponents"},{"l":"practice.main"},{"l":"practice.userInterface"}];updateSearchResults();
